@@ -1,0 +1,44 @@
+*{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+}
+
+body{
+    background-color:#fef6f6;
+    text-align: center;
+   
+}
+
+/* FORM ELEMENTS */
+.color-form{
+    display: flex;
+    justify-content: center;
+    column-gap: 1em;
+    margin: 1.5em;
+}
+
+#seed-color, #color-scheme, #get-btn{
+    height: 5vh;
+    color:rgb(95, 3, 75);
+}
+#seed-color{
+    margin-top: 90;
+}
+
+/* COLOR BOXES */
+#blog-list{
+    display:flex;
+    width: 70%;
+    margin: auto;
+}
+.color-box{
+    border: 1px solid #050505;
+    height: 70vh;
+    min-width: 15vw;  
+}
+.color-id{
+    min-width: 15vw;
+    border: 1px solid #050505;
+    margin-top:0;
+    padding:0.5em;
+}

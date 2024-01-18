@@ -1,6 +1,6 @@
 ##Color Scheme Generator
 
-Live Link: Color Scheme
+Live Link: Color Scheme Generator https://willowy-custard-4b4f09.netlify.app/
 
 This App is built using JavaScript, HTML and CSS. It displays a color scheme by pulling data from the Color API
 
